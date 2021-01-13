@@ -1,4 +1,4 @@
-package com.ga.amigo;
+package com.ga.john;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

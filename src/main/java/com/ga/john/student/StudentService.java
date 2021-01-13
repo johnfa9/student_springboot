@@ -1,4 +1,4 @@
-package com.ga.amigo.student;
+package com.ga.john.student;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

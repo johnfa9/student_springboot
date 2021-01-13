@@ -1,4 +1,4 @@
-package com.ga.amigo.student;
+package com.ga.john.student;
 
 
 

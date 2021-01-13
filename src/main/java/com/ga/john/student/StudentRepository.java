@@ -1,4 +1,4 @@
-package com.ga.amigo.student;
+package com.ga.john.student;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
